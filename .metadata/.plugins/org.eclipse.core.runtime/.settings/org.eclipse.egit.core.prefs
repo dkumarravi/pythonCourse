@@ -1,3 +1,5 @@
-GitRepositoriesView.GitDirectories=/mnt/lambo/pythonCourse/.git\:
-GitRepositoriesView.GitDirectories.relative=.git\:
+GitRepositoriesView.GitDirectories=/mnt/lambo/pythonCourse/google-python-exercises/.git\:/mnt/lambo/pythonCourse/.git\:
+GitRepositoriesView.GitDirectories.relative=google-python-exercises/.git\:.git\:
+RepositorySearchDialogDeepSearch=true
+RepositorySearchDialogSearchPath=/mnt/lambo/pythonCourse
 eclipse.preferences.version=1
